@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.dajie.com	TRUE	/	FALSE		DJ_EU	http%3A%2F%2Fwww.dajie.com%2Faccount%2Flogin
+.dajie.com	TRUE	/	FALSE		DJ_RF	empty
+.dajie.com	TRUE	/	FALSE	1507443318	DJ_UVID	MTQ3NTkwNzMxODkzMTk4NTMz
